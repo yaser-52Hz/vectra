@@ -1,0 +1,10 @@
+include README.md
+include LICENSE
+include CMakeLists.txt
+include build.py
+include pyproject.toml
+include setup.py
+recursive-include src/vectors_cpp *.h *.cpp
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
