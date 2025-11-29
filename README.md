@@ -3,7 +3,7 @@
 A high-performance n-dimensional vector operations library for scientific and mathematical computing.
 
 **Author:** Yasser Hosseinzadeh  
-**Email:** one.astro.nerd@gmail.com
+**Email:** hosseinzadeh.yasser@gmail.com 
 
 ## Overview
 
@@ -178,4 +178,5 @@ Email: one.astro.nerd@gmail.com
 ## Acknowledgments
 
 Built with pybind11 for seamless C++/Python interop.
+
 
